@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ryan2128/Ryan2128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[](https://github-readme-stats.vercel.app/api?username=Ryan2128&theme=default&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=Ryan2128&theme=default&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffffff)
