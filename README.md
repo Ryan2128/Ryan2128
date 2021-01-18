@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=Ryan2128&theme=default&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)
-
-<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ryan2128&theme=default&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats"/>
--->
+
+- 🔭 I’m currently working on `JavaScript` `TypeScript` `Vue`
